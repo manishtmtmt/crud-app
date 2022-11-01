@@ -2,6 +2,10 @@
 
 I have made a simple crud (Create Read Update Delete) app using React, React-Redux, JavaScript. I have also used Chakra-ui library for creating UI of this project. A user can create a todo, he can can view his todos, he also can edit/update todo and he can also delete his task.
 
+# Website link
+
+https://manisht-crud-app.netlify.app/
+
 # Tech Stack
 
 - HTML
