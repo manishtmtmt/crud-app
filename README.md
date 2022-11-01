@@ -4,24 +4,24 @@ I have made a simple crud (Create Read Update Delete) app using React, React-Red
 
 # Tech Stack
 
-HTML
-CSS
-JavaScript
-React
-Redux
-Chakra-UI
+- HTML
+- CSS
+- JavaScript
+- React
+- Redux
+- Chakra-UI
 
 # Deployed
 
-Netlify
+- Netlify
 
 # Features
 
-Add Todo
-Manage Todo
-Add Subtask
-Edit Todo
-Delete Todo
+- Add Todo
+- Manage Todo
+- Add Subtask
+- Edit Todo
+- Delete Todo
 
 # Screenshots of this project
 
