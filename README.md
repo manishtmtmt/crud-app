@@ -11,9 +11,9 @@ https://manisht-crud-app.netlify.app/
 - HTML
 - CSS
 - JavaScript
-- React
-- Redux
-- Chakra-UI
+- React (18.2.0)
+- Redux (4.2.0)
+- Chakra-UI (2.2.4)
 
 # Deployed
 
